@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: http://ssbbww.com/y/p/20080218074444841.gif
+avatar: https://bluelullaby.github.io/img/avatar.gif
 
 # boolean type, the global switch for TOC in posts.
 toc: true
